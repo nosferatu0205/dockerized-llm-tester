@@ -33,3 +33,7 @@ MODEL_NAME = "phi4-mini"
 app.py
 Dockerfile
 test_cases/
+
+### Pulling from docker:
+
+docker pull nosferatu0205/dockerized-llm-tester:latestRetryTo run code, enable code execution and file creation in Settings > Capabilities.
