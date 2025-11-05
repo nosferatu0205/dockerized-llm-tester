@@ -36,4 +36,4 @@ test_cases/
 
 ### Pulling from docker:
 
-docker pull nosferatu0205/dockerized-llm-tester:latestRetryTo run code, enable code execution and file creation in Settings > Capabilities.
+docker pull nosferatu0205/dockerized-llm-tester:latest
