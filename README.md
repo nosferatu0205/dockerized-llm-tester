@@ -1,9 +1,9 @@
-### Prereqs
+# Prereqs
 
 Docker ≥ 20.10
 Ollama running on host
 
-# Model: phi4-mini
+### Model: phi4-mini
 
 ollama pull phi4-mini
 ollama list
